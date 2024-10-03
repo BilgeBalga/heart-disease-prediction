@@ -14,7 +14,13 @@ This project aims to predict the risk of heart disease using the **Logistic Regr
 
 ## About the Project
 
-In this project, health data is used to predict the risk of heart disease in individuals. The model learns from these data points to identify risk factors for future cases.
+This project analyzes health data to predict the risk of individuals developing heart disease. Heart disease is one of the most common health issues worldwide, and early diagnosis and identification of risk factors can be life-saving. The main objective of the project is to develop a model that accurately predicts the risk levels of individuals based on their health conditions and lifestyle factors.
+
+The dataset includes various health and lifestyle factors, such as age, gender, daily cigarette consumption, total cholesterol, systolic blood pressure, and blood glucose levels. These factors are critical in assessing susceptibility to heart disease. The model uses this data to learn from past cases and applies statistical and machine learning techniques to determine the risk levels of future individuals.
+
+In the initial phase of the project, the dataset is examined, and necessary preprocessing steps are performed. This process includes checking for missing values, detecting outliers, and normalizing the data. Subsequently, the data is split into training and test sets to evaluate the model's performance.
+
+Ultimately, this project aims to develop a model capable of predicting the risk of heart disease. Such a model can provide health professionals and individuals with information to take preventive measures against heart disease, thereby enhancing quality of life.
 
 ## Dataset
 
