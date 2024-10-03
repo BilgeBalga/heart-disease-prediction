@@ -54,7 +54,7 @@ The dataset includes the following features:
 
 The results of this project provide significant insights into the effectiveness of using health data for predicting heart disease risk. After training the logistic regression model on the dataset, several key metrics were evaluated to assess its performance:
 
-Accuracy: The model's accuracy score is 0.8434, indicating that approximately 84.34% of the predictions made on the test dataset were correct. This high accuracy score demonstrates that the model is effective in distinguishing between individuals at risk and those not at risk for heart disease. A score of 0.8434 suggests that the model has a strong capability to identify heart disease risk, minimizing misclassifications and providing reliable assessments.
+Accuracy: The model's accuracy score is **0.8434**, indicating that approximately **84.34%** of the predictions made on the test dataset were correct. This high accuracy score demonstrates that the model is effective in distinguishing between individuals at risk and those not at risk for heart disease. A score of 0.8434 suggests that the model has a strong capability to identify heart disease risk, minimizing misclassifications and providing reliable assessments.
 
 Confusion Matrix: The confusion matrix provides a detailed breakdown of the model's predictions, including true positives, true negatives, false positives, and false negatives. This information is crucial for understanding how well the model performs in different scenarios, particularly in identifying those who have heart disease.
 
