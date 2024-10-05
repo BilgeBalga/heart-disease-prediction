@@ -1,8 +1,8 @@
-# Heart Disease Prediction Project
+# Heart Disease Prediction Project 🏩
 
 This project aims to predict the risk of heart disease using the **Logistic Regression** algorithm. The dataset contains various health and lifestyle factors, and preprocessing steps have been applied to prepare the data for accurate predictions.
 
-## Table of Contents
+## 📚 Table of Contents
 
 - [About the Project](#about-the-project)
 - [Dataset](#dataset)
@@ -33,7 +33,7 @@ The dataset includes the following features:
 - `glucose`: Blood glucose level
 - `TenYearCHD`: Risk of coronary heart disease within 10 years (0: No, 1: Yes)
 
-## Libraries Used
+## 🛠️  Libraries Used
 
 - `pandas`: For data manipulation and analysis.
 - `numpy`: For numerical computations.
@@ -50,7 +50,7 @@ The dataset includes the following features:
 5. **Model Training**: A Logistic Regression model is trained on the training set.
 6. **Model Evaluation**: The accuracy of the model is evaluated using the test set.
 
-## Results
+## 🏆 Results
 
 The results of this project provide significant insights into the effectiveness of using health data for predicting heart disease risk. After training the logistic regression model on the dataset, several key metrics were evaluated to assess its performance:
 
