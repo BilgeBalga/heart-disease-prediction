@@ -1,4 +1,4 @@
-# Heart Disease Prediction Project 🏩
+# Heart Disease Prediction Project 🏥
 
 This project aims to predict the risk of heart disease using the **Logistic Regression** algorithm. The dataset contains various health and lifestyle factors, and preprocessing steps have been applied to prepare the data for accurate predictions.
 
